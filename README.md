@@ -1,8 +1,8 @@
 # One-Liner Laugh Lab
 
-[![Competition](https://make.fun/badge/competition/u-suroso-69-one-liner-laugh-lab-6ccf3aae)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
-[![Rank](https://make.fun/badge/rank/Kiowayyy2109/makefun-laugh-lab-20261124)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
-[![Reward](https://make.fun/badge/reward/u-suroso-69-one-liner-laugh-lab-6ccf3aae)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
+[![make.fun · u-suroso-69-one-liner-laugh-lab-6ccf3aae](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-liner-laugh-lab-6ccf3aae)
+[![rank](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae/Kiowayyy2109/makefun-laugh-lab-20261124/rank.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-liner-laugh-lab-6ccf3aae)
+[![reward](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae/Kiowayyy2109/makefun-laugh-lab-20261124/reward.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-liner-laugh-lab-6ccf3aae)
 
 One short funny line for the One-Liner Laugh Lab competition: the excuse a
 robot vacuum gives after eating a sock.
